@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Questrial&display=swap');
+nav{
+    background-color: #FFCAD4;
+}
+
+.acordeon button{
+    background-color: #FFCAD4;
+}
+.acordeon p{
+    text-align: justify;
+    justify-content: left;
+    color: cornflowerblue;
+    size: 20px;
+    font-family: "Questrial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 10px;
+}
+.acordeon h2{
+    text-align: center;
+    justify-content: center;
+    size: 30px;
+    font-family: "Questrial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.subtitulo{
+    display: flex;
+  justify-content: center;
+  background-color: #CFE2FF;
+  padding: 20px;
+  margin: 20px;
+
+}
+
+.subtitulo h1{
+    color: #F2F2F2;
+    font-family: "Questrial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #FFCAD4;
+    margin: 10px;
+    padding: 20px;
+    align-items: center;
+ align-items: center;
+}
+.grid col{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.grid h1{
+    font-family: "Questrial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: aliceblue;
+}
+.grid p{
+    text-align: justify;
+    font-family: "Questrial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.grid img{
+    width: 100%;
+    border-radius: 80%;
+}
